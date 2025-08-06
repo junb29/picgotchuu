@@ -1,6 +1,6 @@
 import React from "react";
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = "https://picgotchuu.onrender.com";
 
 const AlbumView = ({ albums }) => {
   if (!albums || Object.keys(albums).length === 0) return null;

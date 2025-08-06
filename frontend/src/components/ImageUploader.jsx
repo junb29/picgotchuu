@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = "https://picgotchuu.onrender.com";
 
 const ImageUploader = ({ onAlbumsFetched, setError, setLoading }) => {
   const [images, setImages] = useState([]);
