@@ -1,0 +1,60 @@
+prompt,category
+a person,People
+a selfie,People
+a portrait,People
+a girl,People
+a boy,People
+a man,People
+a woman,People
+a group of people,People
+a person smiling,People
+a person taking a selfie,People
+a face,People
+a person from behind, People
+a mountain,Scenery
+a landscape,Scenery
+a beach,Scenery
+an ocean,Scenery
+a city skyline,Scenery
+a sunset,Scenery
+a sunrise,Scenery
+a street with buildings,Scenery
+a nature trail,Scenery
+a field of grass,Scenery
+a lake with trees,Scenery
+a dog,Animals
+a cat,Animals
+a bird,Animals
+a horse,Animals
+a pet,Animals
+an animal,Animals
+a lizard,Animals
+a rabbit,Animals
+a fish,Animals
+a turtle,Animals
+a kitten,Animals
+a puppy,Animals
+a bowl of ramen,Food
+a plate of sushi,Food
+a slice of pizza,Food
+a burger and fries,Food
+a breakfast plate,Food
+a bowl of soup,Food
+a dessert,Food
+a cake,Food
+a dish of food,Food
+a salad,Food
+a sandwich,Food
+a glass of drink,Food
+a screenshot,Documents & Screenshots
+a computer screen,Documents & Screenshots
+a document on a table,Documents & Screenshots
+a scanned paper,Documents & Screenshots
+a receipt,Documents & Screenshots
+a spreadsheet,Documents & Screenshots
+a presentation slide,Documents & Screenshots
+a whiteboard with writing,Documents & Screenshots
+a phone screenshot,Documents & Screenshots
+a typed letter,Documents & Screenshots
+a printed document,Documents & Screenshots
+a web page screenshot,Documents & Screenshots
